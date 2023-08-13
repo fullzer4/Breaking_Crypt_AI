@@ -1,0 +1,14 @@
+[
+    {
+        "original": "hello",
+        "hashed": "aaf4c61ddcc5e8a2dabede0f3b482cd9aea9434d"
+    },
+    {
+        "original": "world",
+        "hashed": "7c211433f02071597741e6ff5a8ea34789abbf43"
+    },
+    {
+        "original": "fullzer4",
+        "hashed": "e6b8b14ba38af10b94708425be87b169cc6fc0a6"
+    }
+]
