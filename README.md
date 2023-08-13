@@ -1,1 +1,9 @@
-# Pytorch_cpp_nn
+SHA-1
+SHA-256
+SHA-3
+AES
+RSA
+ECC
+Blowfish 
+Twofish
+PGP
